@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Hello World! 你好
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
